@@ -16,11 +16,11 @@ EduPredict is a big data–driven platform, leveraging predictive analytics to e
 
 - Support for Academic records, Attendance, Average GPA and LMS engagement score by GPA.
 - Total students by Department, Semester and Academic year.
-- Future dropout prediction with trigger type and description.
-- Find sum of marks obtained and total GPA of each Program through Course ID. 
+- Future dropout prediction with Trigger type and Description.
+- Sum of marks obtained and Total GPA of each Program through Course id. 
 - User-friendly interactive dashboard visualizing student performance patterns and predictions.
 - Graduated, Dropped and Completion rate through status.
-- GPA and Total attendance through Student ID.
+- GPA and Total attendance through Student id.
 - Parallel processing for large datasets.
 
 
