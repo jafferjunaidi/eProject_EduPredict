@@ -1,4 +1,4 @@
-![Logo](https://github.com/jafferjunaidi/eProject_EduPredict/blob/main/Images/EduPredict.png)
+<img src="Images/EduPredict.png" alt="Logo" height="250px">
 
 
 # EduPredict
